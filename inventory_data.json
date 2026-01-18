@@ -1,1 +1,1 @@
-{"masterItems":[{"id":2,"name":"iPhone16"},{"id":3,"name":"iPhone17-rename"}],"inventoryEntries":[{"date":"2026-01-18T11:10:11.000","itemId":2,"itemName":"iPhone16","quantity":10}],"config":{"nextItemId":4}}
+{"masterItems":[{"id":2,"name":"iPhone16"},{"id":3,"name":"iPhone17-rename"}],"inventoryEntries":[{"date":"2026-01-18T11:10:11.000","itemId":2,"itemName":"iPhone16","quantity":10},{"date":"2026-01-18T11:15:48.000","itemId":2,"itemName":"iPhone16","quantity":2}],"config":{"nextItemId":4}}
